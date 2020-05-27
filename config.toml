@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://sebastian-claici.github.io/"
 title = "Concave Mirror"
 languageCode = "en"
 hasCJKLanguage = false

@@ -57,7 +57,7 @@ c(x\_i, y\_j)\\). If we try to look for a map \\(T\\) here, we run into trouble 
 Here is an example on \\(\mathbb{R}\\) where such a map does not exist:
 
 \begin{equation}
-\mu = \delta\_0\quad \nu = \frac{1}{2}\delta\_{-1} + \frac{1}{2}delta\_{1}.
+\mu = \delta\_0\quad \nu = \frac{1}{2}\delta\_{-1} + \frac{1}{2}\delta\_{1}.
 \end{equation}
 
 The problem here is that mass preservation needs \\(\frac{1}{2}\\) mass at \\(1\\) and
