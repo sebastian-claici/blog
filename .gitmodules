@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/axiom"]
+	path = themes/axiom
+	url = https://github.com/marketempower/axiom.git
+[submodule "themes/cortex"]
+	path = themes/cortex
+	url = https://github.com/jethrokuan/cortex.git
+[submodule "themes/meme"]
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
