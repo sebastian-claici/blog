@@ -1,6 +1,8 @@
 +++
 title = "Meeting on Death Mountain"
 date = 2020-06-11T00:00:00-04:00
+categories = ["essays"]
+tags = ["poetry", "paul celan", "martin heidegger"]
 draft = false
 +++
 
