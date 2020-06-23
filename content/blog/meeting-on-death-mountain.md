@@ -8,11 +8,10 @@ draft = false
 
 
 <table style="border-collapse: collapse; border: none; margin-left: auto; margin-right: auto;">
-
 <tbody>
 <tr>
-<td><img src="/ox-hugo/heidegger.jpeg" alt="heidegger.jpeg" /></td>
-<td><img src="/ox-hugo/resize_celan.jpeg" alt="resize_celan.jpeg" /></td>
+<td style="border:none"><img src="/ox-hugo/heidegger.jpeg" alt="heidegger.jpeg" /></td>
+<td style="border:none"><img src="/ox-hugo/resize_celan.jpeg" alt="resize_celan.jpeg" /></td>
 </tr>
 </tbody>
 </table>
@@ -54,44 +53,83 @@ guests that came after Celan.
 
 **Todtnauberg**:
 
-```text
-Arnica, eyebright, the                  Arnica, Augentrost, der
-draft from the well with the            Trunk aus dem Brunnen mit dem
-starred die above it                    Sternwürfel drauf,
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr style="border: none">
+<td align="left" width="50%" style="border:none">
+Arnica, eyebright, the                  </br>
+draft from the well with the            </br>
+starred die above it                    </br>
+</br>
+in the                                  </br>
+hut                                     </br>
+</br>
+the line                                </br>
+--whose name did the book               </br>
+register before mine?--,                </br>
+the line inscribed                      </br>
+in that book about                      </br>
+a hope, today,                          </br>
+of a thinking man's                     </br>
+coming                                  </br>
+word                                    </br>
+in the heart                            </br>
+</br>
+woodland sward, unleveled,              </br>
+orchis and orchis, single,              </br>
+</br>
+coarse stuff, later, clear              </br>
+in passing,                             </br>
+he who drives us, the man,              </br>
+who listens in,                         </br>
+</br>
+the half-                               </br>
+trodden log                             </br>
+trails through the high moors,          </br>
+</br>
+dampness,                               </br>
+much.                                   </br>
+</td>
 
-in the                                  in der
-hut                                     Hütte
-
-the line                                die in das Buch
---whose name did the book               —wessen Namen nahms auf
-register before mine?--,                vor dem meinen?—,
-the line inscribed                      die in dies Buch
-in that book about                      geschriebene Zeile von
-a hope, today,                          einer Hoffnung, heute,
-of a thinking man's                     auf eines Denkenden
-coming                                  kommendes
-word                                    Wort
-in the heart                            im Herzen,
-
-woodland sward, unleveled,              Waldwasen, uneingeebnet,
-orchis and orchis, single,              Orchis und Orchis, einzeln,
-
-coarse stuff, later, clear              Krudes, später, im Fahren,
-in passing,                             deutlich,
-he who drives us, the man,              der uns fährt, der Mensch,
-who listens in,                         der’s mit anhört,
-
-the half-                               die halb-
-trodden log                             beschrittenen Knüppel-
-trails through the high moors,          Pfade im Hochmoor,
-
-dampness,                               Feuchtes,
-much.                                   viel
-```
-
+<td align="left" width="33%" style="border:none">
+ Arnica, Augentrost, der</br>
+ Trunk aus dem Brunnen mit dem</br>
+ Sternwürfel drauf,</br>
+</br>
+ in der</br>
+ Hütte</br>
+</br>
+ die in das Buch</br>
+ —wessen Namen nahms auf</br>
+ vor dem meinen?—,</br>
+ die in dies Buch</br>
+ geschriebene Zeile von</br>
+ einer Hoffnung, heute,</br>
+ auf eines Denkenden</br>
+ kommendes</br>
+ Wort</br>
+ im Herzen,</br>
+</br>
+ Waldwasen, uneingeebnet,</br>
+ Orchis und Orchis, einzeln,</br>
+</br>
+ Krudes, später, im Fahren,</br>
+ deutlich,</br>
+ der uns fährt, der Mensch,</br>
+ der’s mit anhört,</br>
+</br>
+ die halb-</br>
+ beschrittenen Knüppel-</br>
+ Pfade im Hochmoor,</br>
+</br>
+Feuchtes,                    </br>
+ viel</br>
+ </td>
+</tr>
+</tbody>
+</table>
 
 ## The Path of Hope {#the-path-of-hope}
-
 The poem is a single sentence of nouns and noun phrases. It begins with an
 impressionist detail:
 
