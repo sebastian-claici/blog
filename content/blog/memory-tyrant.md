@@ -38,8 +38,9 @@ ranking the books I had read, movies I had watched, albums I had listened to. Um
 Even now I remember when and how novelists and poets have entered and exited my personal canon. I remember reading
 _Madame Bovary_ in a bed at my grandparents' house as a young teenager. The duvet and pillows were filled with goose
 feather and down, and I sank into them fast. The outside was oppressive with dust and moisture, but the room I absconded
-to had the coolness of a cellar. I started crying as I was reading, not at anything happening in the novel (little
-brush of language.
+to had the coolness of a cellar. I started crying as I was reading, not at anything happening in the novel (little indeed
+happens), but at the prose itself. I could not, and still cannot understand how
+to paint emotion with the coarse brush of language.
 
 Maybe this memory is a self-indulgent recreation of a moment that never truly happened, but that I rationalised had.
 _Madame Bovary_, tears or not, formed an inflection point in my reading away from plot and towards form. I have since
